@@ -81,7 +81,7 @@ The wireframes define the structure and layout of the system, including:
 - Focus session flow
 - Editing and alternative task flows
 
-🔗 **Wireframes (Figma):**  
+ **Wireframes (Figma):**  
 https://www.figma.com/design/ivPTZx9AWC9Ie5vWg2zDYK/Wireframe?node-id=0-1&p=f
 
 ---
@@ -90,6 +90,6 @@ https://www.figma.com/design/ivPTZx9AWC9Ie5vWg2zDYK/Wireframe?node-id=0-1&p=f
 
 The interactive prototype simulates real user interactions, allowing users to click through screens and experience the system flow.
 
-🔗 **Interactive Mockup (Figma):**  
+ **Interactive Mockup (Figma):**  
 https://www.figma.com/design/sz4yPE8jzDYXZKiJDH9k45/Interactive-Mockup?node-id=0-1&p=f
 
