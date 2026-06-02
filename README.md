@@ -4,7 +4,7 @@ A student-focused planning and productivity system designed to help university s
 (Please check out links at the bottom)
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This group project was completed as part of **ITEC 3230 (Designing User Interfaces)** and focuses on improving the daily experience of university students by addressing common challenges such as:
 
@@ -17,7 +17,7 @@ The solution, **Smart Student Planner**, provides smart scheduling, focus sessio
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 University students often struggle to balance classes, commuting, studying, and personal well-being. Existing tools either lack flexibility or fail to account for real-world factors like transit delays and burnout.
 
@@ -29,7 +29,7 @@ University students often struggle to balance classes, commuting, studying, and 
 
 ---
 
-## 👥 User Personas
+##  User Personas
 
 ### Persona 1 – Time-Conscious Commuter
 - Commutes long distances to campus
@@ -43,7 +43,7 @@ University students often struggle to balance classes, commuting, studying, and 
 
 ---
 
-## 🧩 Key Use Cases
+##  Key Use Cases
 
 ### 1. Plan My Day
 - View daily schedule and time gaps
@@ -57,7 +57,7 @@ University students often struggle to balance classes, commuting, studying, and 
 
 ---
 
-## 🛠 UX Design Process
+##  UX Design Process
 
 The project followed the **Double Diamond design process**:
 
@@ -73,7 +73,7 @@ The project followed the **Double Diamond design process**:
 
 ---
 
-## 📐 Wireframes
+##  Wireframes
 
 The wireframes define the structure and layout of the system, including:
 - Dashboard
@@ -86,7 +86,7 @@ https://www.figma.com/design/ivPTZx9AWC9Ie5vWg2zDYK/Wireframe?node-id=0-1&p=f
 
 ---
 
-## 🚀 Interactive Prototype
+##  Interactive Prototype
 
 The interactive prototype simulates real user interactions, allowing users to click through screens and experience the system flow.
 
