@@ -2,7 +2,7 @@
 
 A student-focused planning and productivity system designed to help university students manage time, commuting stress, and focus. This project showcases the full UX process, including research-driven design, wireframes, and a high-fidelity interactive prototype created in **Figma**.
 (Please check out links at the bottom)
----
+
 
 ##  Project Overview
 
@@ -15,7 +15,7 @@ This group project was completed as part of **ITEC 3230 (Designing User Interfac
 
 The solution, **Smart Student Planner**, provides smart scheduling, focus sessions, and productivity tracking in a single, user-friendly interface.
 
----
+
 
 ##  Problem Statement
 
@@ -27,7 +27,7 @@ University students often struggle to balance classes, commuting, studying, and 
 - Encourages focused study through short, gamified sessions
 - Supports healthier productivity habits
 
----
+
 
 ##  User Personas
 
@@ -41,7 +41,7 @@ University students often struggle to balance classes, commuting, studying, and 
 - Struggles with burnout and motivation
 - Benefits from gamified focus sessions and reminders
 
----
+
 
 ##  Key Use Cases
 
@@ -55,7 +55,7 @@ University students often struggle to balance classes, commuting, studying, and 
 - Enter distraction-free focus mode
 - Earn badges and track productivity progress
 
----
+
 
 ##  UX Design Process
 
@@ -71,7 +71,7 @@ The project followed the **Double Diamond design process**:
 - Structured wireframes
 - High-fidelity interactive mockups in Figma
 
----
+
 
 ##  Wireframes
 
@@ -84,7 +84,7 @@ The wireframes define the structure and layout of the system, including:
  **Wireframes (Figma):**  
 https://www.figma.com/design/ivPTZx9AWC9Ie5vWg2zDYK/Wireframe?node-id=0-1&p=f
 
----
+
 
 ##  Interactive Prototype
 
